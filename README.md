@@ -1,6 +1,6 @@
 # Metro Lights theme for Xcode
 
-Inspired by of [City Lights for Atom](http://citylights.xyz/).
+Inspired by [City Lights for Atom](http://citylights.xyz/).
 
 ## Installation
 
